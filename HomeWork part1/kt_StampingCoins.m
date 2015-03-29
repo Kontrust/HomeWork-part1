@@ -12,44 +12,44 @@
 
 - (void) start_Stamping_Coins {
     
-    [self we_develop];
-    [self we_remove];
-    [self fill_the_mold];
-    [self we_carry_relief];
-    [self round_purveyances];
-    [self polishing_the_surface];
-    [self coins_were];
+    [self we_Develop];
+    [self we_Remove];
+    [self fill_The_Mold];
+    [self we_Carry_Relief];
+    [self round_Purveyances];
+    [self polishing_The_Surface];
+    [self coins_Were];
 }
 
-- (void) we_develop {
+- (void) we_Develop {
     NSLog(@"Разрабатываем трехмерную дизайнерскую модель");
 }
 
-- (void) we_remove {
+- (void) we_Remove {
     NSLog(@"Снимаем слепок");
 }
 
--(void) fill_the_mold {
+-(void) fill_The_Mold {
     NSLog(@"Заполняем слепок эпоксидной смолой, получаем первый реальный макет будущей монеты");
 }
 
 
--(void) we_carry_relief {
+-(void) we_Carry_Relief {
     NSLog(@"Переносим рельеф с макета на штамп");
 }
 
 
--(void) round_purveyances {
+-(void) round_Purveyances {
     NSLog(@"Круглые заготовки для монет нарезаем из металлической ленты");
 }
 
 
--(void) polishing_the_surface {
+-(void) polishing_The_Surface {
     NSLog(@"Полируем поверхности будущих монет");
 }
 
 
--(void) coins_were {
+-(void) coins_Were {
     NSLog(@"Чеканим монеты с использованием штампа");
 }
 
