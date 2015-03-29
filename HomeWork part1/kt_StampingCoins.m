@@ -2,15 +2,15 @@
 //  KtCreationOfCoins.m
 //  HomeWork part1
 //
-//  Created by Анна Селищева on 29.03.15.
+//  Created by maks on 29.03.15.
 //  Copyright (c) 2015 Макс. All rights reserved.
 //
 
-#import "KT_stampingCoins.h"
+#import "KT_StampingCoins.h"
 
-@implementation KT_stampingCoins
+@implementation KT_StampingCoins
 
-- (void) start_stamping_Coins {
+- (void) start_Stamping_Coins {
     
     [self we_Develop];
     [self we_Remove];

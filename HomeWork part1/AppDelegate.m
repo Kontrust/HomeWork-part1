@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-#import "KT_stampingCoins.h"
+#import "KT_StampingCoins.h"
 
 @interface AppDelegate ()
 
@@ -19,8 +19,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    KT_stampingCoins * stamping = [[KT_stampingCoins alloc]init] ;
-    [stamping start_stamping_Coins];
+    KT_StampingCoins * stamping = [[KT_StampingCoins alloc]init] ;
+    [stamping start_Stamping_Coins];
     return YES;
 }
 
