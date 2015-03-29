@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-@interface kt_StampingCoins : NSObject
+@interface KT_stampingCoins : NSObject
 
-- (void) start_Stamping_Coins ;
+- (void) start_stamping_Coins ;
 
 @end

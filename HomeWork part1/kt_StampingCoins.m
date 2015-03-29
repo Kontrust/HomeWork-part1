@@ -6,11 +6,11 @@
 //  Copyright (c) 2015 Макс. All rights reserved.
 //
 
-#import "kt_StampingCoins.h"
+#import "KT_stampingCoins.h"
 
-@implementation kt_StampingCoins
+@implementation KT_stampingCoins
 
-- (void) start_Stamping_Coins {
+- (void) start_stamping_Coins {
     
     [self we_Develop];
     [self we_Remove];

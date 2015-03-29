@@ -9,13 +9,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "HomeWork part1/kt_StampingCoins.m"
+            filePath = "HomeWork part1/KT_stampingCoins.m"
             timestampString = "449314941.356099"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "15"
             endingLineNumber = "15"
-            landmarkName = "-start_Stamping_Coins"
+            landmarkName = "-start_stamping_Coins"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

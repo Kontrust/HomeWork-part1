@@ -14,7 +14,7 @@
 		F83EB9041AC716D30085B784 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F83EB9031AC716D30085B784 /* Images.xcassets */; };
 		F83EB9071AC716D30085B784 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F83EB9051AC716D30085B784 /* LaunchScreen.xib */; };
 		F83EB9131AC716D40085B784 /* HomeWork_part1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = F83EB9121AC716D40085B784 /* HomeWork_part1Tests.m */; };
-		F8FD918F1AC7F16C00FC1E77 /* kt_StampingCoins.m in Sources */ = {isa = PBXBuildFile; fileRef = F8FD918E1AC7F16C00FC1E77 /* kt_StampingCoins.m */; };
+		F8FD918F1AC7F16C00FC1E77 /* KT_stampingCoins.m in Sources */ = {isa = PBXBuildFile; fileRef = F8FD918E1AC7F16C00FC1E77 /* KT_stampingCoins.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +41,8 @@
 		F83EB90C1AC716D40085B784 /* HomeWork part1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HomeWork part1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F83EB9111AC716D40085B784 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F83EB9121AC716D40085B784 /* HomeWork_part1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeWork_part1Tests.m; sourceTree = "<group>"; };
-		F8FD918D1AC7F16C00FC1E77 /* kt_StampingCoins.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kt_StampingCoins.h; sourceTree = "<group>"; };
-		F8FD918E1AC7F16C00FC1E77 /* kt_StampingCoins.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = kt_StampingCoins.m; sourceTree = "<group>"; };
+		F8FD918D1AC7F16C00FC1E77 /* KT_stampingCoins.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KT_stampingCoins.h; sourceTree = "<group>"; };
+		F8FD918E1AC7F16C00FC1E77 /* KT_stampingCoins.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KT_stampingCoins.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,8 +126,8 @@
 		F8FD91901AC802A100FC1E77 /* stamping */ = {
 			isa = PBXGroup;
 			children = (
-				F8FD918D1AC7F16C00FC1E77 /* kt_StampingCoins.h */,
-				F8FD918E1AC7F16C00FC1E77 /* kt_StampingCoins.m */,
+				F8FD918D1AC7F16C00FC1E77 /* KT_stampingCoins.h */,
+				F8FD918E1AC7F16C00FC1E77 /* KT_stampingCoins.m */,
 			);
 			name = stamping;
 			sourceTree = "<group>";
@@ -235,7 +235,7 @@
 				F83EB8FF1AC716D30085B784 /* ViewController.m in Sources */,
 				F83EB8FC1AC716D30085B784 /* AppDelegate.m in Sources */,
 				F83EB8F91AC716D30085B784 /* main.m in Sources */,
-				F8FD918F1AC7F16C00FC1E77 /* kt_StampingCoins.m in Sources */,
+				F8FD918F1AC7F16C00FC1E77 /* KT_stampingCoins.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
